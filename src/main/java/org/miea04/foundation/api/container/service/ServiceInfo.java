@@ -1,4 +1,4 @@
-package org.miea04.foundation.api.container.serivce;
+package org.miea04.foundation.api.container.service;
 
 import java.util.Map;
 import java.util.Set;

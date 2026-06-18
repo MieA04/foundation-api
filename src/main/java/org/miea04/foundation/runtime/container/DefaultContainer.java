@@ -2,7 +2,7 @@ package org.miea04.foundation.runtime.container;
 
 import org.miea04.foundation.api.container.FoundationContainer;
 import org.miea04.foundation.api.exception.ServiceAlreadyRegisteredException;
-import org.miea04.foundation.api.container.serivce.ServiceEntry;
+import org.miea04.foundation.api.container.service.ServiceEntry;
 
 import java.util.Map;
 import java.util.Objects;

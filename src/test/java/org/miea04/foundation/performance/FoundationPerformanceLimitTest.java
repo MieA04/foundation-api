@@ -6,9 +6,9 @@ import org.junit.jupiter.api.Timeout;
 import org.miea04.foundation.api.capability.CapabilityInfo;
 import org.miea04.foundation.api.capability.CapabilityKey;
 import org.miea04.foundation.api.capability.CapabilityStatus;
-import org.miea04.foundation.api.container.serivce.ServiceEntry;
-import org.miea04.foundation.api.container.serivce.ServiceInfo;
-import org.miea04.foundation.api.container.serivce.ServiceStatus;
+import org.miea04.foundation.api.container.service.ServiceEntry;
+import org.miea04.foundation.api.container.service.ServiceInfo;
+import org.miea04.foundation.api.container.service.ServiceStatus;
 import org.miea04.foundation.runtime.capability.CapabilityRegistry;
 import org.miea04.foundation.runtime.container.DefaultContainer;
 

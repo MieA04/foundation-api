@@ -1,6 +1,6 @@
 package org.miea04.foundation.api.container;
 
-import org.miea04.foundation.api.container.serivce.ServiceEntry;
+import org.miea04.foundation.api.container.service.ServiceEntry;
 
 import java.util.Optional;
 
